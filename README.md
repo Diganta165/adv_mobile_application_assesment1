@@ -24,8 +24,9 @@ Bibliophase is a book tracking app designed to help users organize book list, tr
 
 
 ### 4. Notes
-- User can write notes on book list
+- User can write notes on specefic book
 - User can see all the notes in the note screen
+- User can update and delete note from the note screen
 
 
 ### 5. Goals
@@ -39,6 +40,7 @@ Bibliophase is a book tracking app designed to help users organize book list, tr
 
 ### 7. Dashboard
 - User can see total categories and total book numbers
+- Usder can see recent books and recent notes
 
 ### 7. Dark Mode
 - User can toggle between dark mode and light mode by clicking on the top right icon
