@@ -28,19 +28,16 @@ MyApp is a modern productivity tool designed to help users organize book list, t
 - User can see all the notes in the note screen
 
 
-### 5. Analytics Dashboard
+### 5. Goals
+- Goals has a different screen
+- User can set multiple goals
+- User can set three type of goals weekly, monthly and yearly
+- User can delete a specefic goal
 
-Visualize task completion statistics and user activity.
+### 6. Account
+- User can change password
 
-**Implementation details:**
-- Charts rendered using Chart.js in React
-- Analytics data aggregated by backend API
-- Responsive dashboard UI for desktop and mobile
+### 7. Dark Mode
+- User can toggle between dark mode and light mode by clicking on the top right icon
 
-## Getting Started
 
-1. **Clone this repository**
-2. **Install dependencies:**  
-   - Run `npm install` in the root directory (for the server)  
-   - Run `npm install` in the `client` directory (for the client)
-3. **Set environment variables** in
