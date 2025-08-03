@@ -1,6 +1,6 @@
-# MyApp
+# Bibliophase
 
-MyApp is a modern productivity tool designed to help users organize book list, track progress, create category, write notes on books and seting reading goals.
+Bibliophase is a book tracking app designed to help users organize book list, track progress, create category, write notes on books and seting reading goals.
 
 ## Core Features
 
@@ -36,6 +36,9 @@ MyApp is a modern productivity tool designed to help users organize book list, t
 
 ### 6. Account
 - User can change password
+
+### 7. Dashboard
+- User can see total categories and total book numbers
 
 ### 7. Dark Mode
 - User can toggle between dark mode and light mode by clicking on the top right icon
