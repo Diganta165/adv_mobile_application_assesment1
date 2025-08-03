@@ -14,23 +14,18 @@ Secure user registration and login using email and password.
 
 ### 2. Book list
 
-Create, edit, delete, and read a book list.
+- Create, edit, delete, and read a book list.
+- User can add book with title, writer, photo, pages and category
+- User can track how many pages he has read in a book. 
 
-**Implementation details:**
-- RESTful API for CRUD operations
-- UI built with React, using Redux for state management
-- Tasks stored in MongoDB, associated with specific users
+### 3. Category
+- Category has a separate screen
+- User can create and delete category 
 
-### 3. Project Collaboration
 
-Collaborate with team members on shared projects.
-
-**Implementation details:**
-- Invitation system to add users to projects
-- Real-time updates via WebSockets (Socket.io)
-- Project-level permissions enforced server-side
-
-### 4. Due Date Reminders
+### 4. Notes
+- User can write notes on book list
+- User can see all the notes in the note screen
 
 Get notified when tasks are nearing their deadlines.
 
