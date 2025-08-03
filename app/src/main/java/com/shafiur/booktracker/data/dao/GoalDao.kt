@@ -19,9 +19,11 @@ interface GoalDao {
     fun getGoalsForUser(userId: Int): Flow<List<ReadingGoal>>
 }
 class Converters {
+//    join the list data with ","
     @TypeConverter
     fun fromList(list: List<Int>): String = list.joinToString(",")
 
+//    split the data and convert in string
     @TypeConverter
     fun toList(data: String): List<Int> =
         if (data.isEmpty()) emptyList()
