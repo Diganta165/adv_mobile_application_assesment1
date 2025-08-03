@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bibliophase"
+rootProject.name = "BookTracker"
 include(":app")
  

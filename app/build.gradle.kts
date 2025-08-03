@@ -4,15 +4,14 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.ksp)
 
-
 }
 
 android {
-    namespace = "com.shafiur.bibliophase"
+    namespace = "com.example.booktracker"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.shafiur.bibliophase"
+        applicationId = "com.example.booktracker"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -106,3 +105,4 @@ dependencies {
     }
 
 }
+
