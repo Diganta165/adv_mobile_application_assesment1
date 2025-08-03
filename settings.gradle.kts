@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "bibliophase"
+rootProject.name = "Bibliophase"
 include(":app")
  
