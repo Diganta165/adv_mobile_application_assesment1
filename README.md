@@ -4,13 +4,13 @@ MyApp is a modern productivity tool designed to help users organize book list, t
 
 ## Core Features
 
-### 1. User Authentication
-
-Secure user registration and login using email and password.
-
-**Implementation details:**
+**Technologies:**
 - Kotlin
 - Database: Room Database
+  
+### 1. User Authentication
+- Secure user registration and login using email and password.
+
 
 ### 2. Book list
 
@@ -27,12 +27,6 @@ Secure user registration and login using email and password.
 - User can write notes on book list
 - User can see all the notes in the note screen
 
-Get notified when tasks are nearing their deadlines.
-
-**Implementation details:**
-- Server-side job scheduler (node-cron) checks due dates
-- Email notifications via Nodemailer
-- In-app pop-up reminders using React Toasts
 
 ### 5. Analytics Dashboard
 
