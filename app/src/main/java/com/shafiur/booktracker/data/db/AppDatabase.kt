@@ -6,6 +6,7 @@ import androidx.room.TypeConverters
 import com.shafiur.booktracker.data.model.*
 import com.shafiur.booktracker.data.dao.*
 
+//data properties
 @Database(
     entities = [User::class, Book::class, Note::class, ReadingGoal::class, Category::class],
     version = 1,
