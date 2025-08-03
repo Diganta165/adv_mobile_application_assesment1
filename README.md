@@ -10,6 +10,7 @@ Bibliophase is a book tracking app designed to help users organize book list, tr
   
 ### 1. User Authentication
 - Secure user registration and login using email and password.
+- User can logout
 
 
 ### 2. Book list
